@@ -245,7 +245,7 @@ export function Sidebar({
                 </div>
                 <p className="text-[12px] font-semibold text-slate-300">Owner Account</p>
               </div>
-              <p className="text-[11px] text-slate-500 leading-relaxed">Data stored locally in your browser.</p>
+              <p className="text-[11px] text-slate-500 leading-relaxed">Data securely synced with Firebase.</p>
             </div>
           </div>
         )}
